@@ -17,7 +17,7 @@ $ git add .
 $ git commit -m "initial project version"
 ```
 
-Now clone the github repository in your directory by running the command in the terminal
+Next step is to clone the github repository in your directory by running the command in the terminal
 
 ```
 git clone https://github.com/fazleerabby/vuetify-django-boilerplate.git
@@ -35,6 +35,8 @@ Now inside your src directory run these two commands:
 $ npm install
 $ npm run build
 ```
+
+Then paste your unique secret key inside config/settings.py file.
 
 Finally run your Django server:
 
