@@ -1,0 +1,13 @@
+bin/
+include/
+lib/
+lib64
+share/
+pyvenv.cfg
+
+
+*/secret.txt
+*/.idea
+*/node_modules
+*/__pycache__
+*/db.sqlite3
