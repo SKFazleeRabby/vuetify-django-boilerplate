@@ -13,3 +13,5 @@ yarn-error.log
 
 
 */__pycache__
+.env
+secret.txt
